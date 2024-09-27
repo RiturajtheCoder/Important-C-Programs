@@ -2,7 +2,7 @@
 
 //3.1
 //If the input is not user defined(Without using function)
-/*#include <stdio.h>
+#include <stdio.h>
 int main(){
 	int arr[]={1,2,3,4,5,6,7,8,9,10};
 	int n=sizeof(arr)/sizeof(arr[0]);
@@ -32,9 +32,9 @@ int main(){
 		}
 	}
 	return 0;
-}*/
+}
 
-/*//3.2
+//3.2
 //If the input is not user defined(using function)
 #include <stdio.h>
 int bubbleSort(int arr[],int n){
@@ -74,7 +74,7 @@ int main(){
 		printf("%d ",arr[i]);
 	}
 	return 0;
-}*/
+}
 
 //3.3
 //If the input is not user defined(without function)
